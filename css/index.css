@@ -1,0 +1,52 @@
+.menu>ul>li {
+    display: inline-block;
+}
+
+.menu>ul>li>a {
+    display: block;
+    text-decoration: none;
+    font-variant: small-caps;
+    color: white;
+    padding: 0px 10px;
+    font-size: larger;
+    line-height: 40px;
+
+}
+
+.menu>ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-radius: 3x;
+    background-color: orangered;
+    text-align: center;
+}
+
+.menu>ul>li>a:hover {
+    color: yellow;
+}
+
+.anh1 {
+    width: 100%;
+}
+.anh2{
+    max-width: 40%;
+    padding-top: 30px;
+    
+}
+.anh{
+    display: inline-block;
+}
+.anh3{
+    max-width: 30%;
+    position: absolute;
+    top: 630px;
+right: 400px;
+}
+
+
+.banner{
+    top: 600px;
+    position: absolute;
+    right: 10px;
+}

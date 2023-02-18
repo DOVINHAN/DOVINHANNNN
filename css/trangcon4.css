@@ -1,0 +1,298 @@
+body{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: white;
+
+}
+.an{
+    max-width: 20%;
+    text-decoration: none;
+    color:black;
+    float:left;
+    font-size: larger;
+    position:absolute;
+    top:30px;
+    left:250px;
+}
+.quay{
+    max-width: 20%;
+    text-decoration: none;
+    color:black;
+    float:left;
+    font-size: larger;
+    position:absolute;
+    top:30px;
+    left:300px;
+}
+.di{
+    max-width: 20%;
+    font-size: larger;
+    text-decoration: none;
+    color:black;
+    position:absolute;
+    top:30px;
+    left:370px;
+}
+header button{
+    height:40px;
+    border-radius: 10px;
+}
+header button.b1{
+    position:absolute;
+    top:20px;
+    left:450px;
+    background-color: orange;
+}
+.v-menu>ul>li>a:hover{
+    color:greenyellow;
+    font-weight: bold;
+}
+header button.b2{
+    position:absolute;
+    top:20px;
+    left:600px;
+    background-color: orange;
+}
+.search{
+    position:absolute;
+    top:24px;
+    left:750px;
+    border-radius: 10px;
+    height:30px;
+}
+article{
+    background-color: rgb(247, 246, 246);
+    padding-top:20px;
+}
+.cent{
+    position:relative;
+    left:500px;
+    top:30px;
+    
+}
+.right{
+    position:absolute;
+    left:30px;
+    top:380px
+}
+.left{
+    position:absolute;
+    right:30px;
+    top:380px 
+}
+.left2{
+    position:absolute;
+    right:30px;
+    top:700px 
+}
+.bottom-img{
+    position:relative;
+    left:855px;
+    top:30px;
+}
+.bottom-p{
+    position:relative;
+    left:500px;
+    bottom:100px;
+}
+section{
+    background-color: rgb(247, 246, 246);
+}
+.flower{
+    position:absolute;
+    left:30px;
+    top:1100px;
+}
+.meo{
+    position:relative;
+    left:500px;
+
+    
+}
+.meo-p{
+    position:absolute;
+    left:1050px;
+    top:1100px;
+}
+.ha1>img{
+
+    padding-left: 65px;
+    }
+    .ha2>img{
+        
+      padding-left: 20px;
+      
+    }
+    .ha3>img{
+        
+        padding-left: 35px;
+        height: 130px;
+        width: 270px;
+    }
+    .ha6{
+        padding-left: 35px;
+    }
+    
+    .banner>img{
+        padding-left: 35px;
+        width: 300px;
+        height: 600px;
+    }
+    .pd1{
+        float: left;
+        padding-bottom: 50px;
+    }
+    .pd2{
+        float: left;
+    }
+    
+    .pd3{
+        float: left;
+    }
+    .nd1{
+        padding-left: 65px;
+    }
+    .nd2{
+        padding-left: 20px;
+    }
+    .nd3{
+        padding-left: 35px;
+    }
+    .banner2>img{
+        
+        float: right;
+        padding-right: 70px;
+       
+    }.pd4{
+        clear: left;
+    }
+    .ha7>img{
+    float: left;
+    position: absolute;
+    padding-top: 30px;
+    left: 65px;
+    }
+    .nd7{
+        float: left; 
+        padding-left: 400px;
+        padding-top: 20px;
+        
+    }
+    .ha8>img{
+       float: left;
+       position: relative;
+       padding-left: 65px;
+       padding-top: 30px;
+       
+       margin-right: 500px;
+    }
+    .nd8{
+        float: left;
+        padding-left: 15px;
+        padding-top: 20px;
+        position: absolute;
+        left: 380px;
+        top: 1600px;
+    }
+    .ha9>img{
+        float: left;
+        padding-left: 65px;
+        padding-top: 30px;
+        padding-right: 300px;
+    }
+    .nd9{
+        float: left;
+        padding-left: 390px;
+        padding-top: 480px;
+        
+        position: absolute;
+     }
+     .ha10>img{
+        float: left;
+        padding-left: 65px;
+        padding-top: 30px;
+        position: absolute;
+        top: 2070px;
+        left: 0px;
+        
+    }
+    .nd10{
+        float: left;
+        padding-left: 0px;
+        position: relative;
+        top: 260px;
+        right: 300px;
+     }
+     .footer1{
+        margin-top: 1000px;
+        width: 400%;
+        height: 140px;
+        background-color: #fff;
+       
+     }
+     .footer1>img{
+        padding-left: 65px;
+        float: left;
+     }
+     .ft1>h3{
+        float: left;
+        padding-left: 10px;
+     }
+    .ft2{
+        float: left;
+        margin-top: 50px;
+        position: absolute;
+        left: 285px;
+        border: 1px solid gray;
+    }
+    .ft3{
+        padding-top: 50px;
+    }
+    .ft4{
+        padding-left: 285px;
+        padding-top: 10px;
+    }
+    .footer2>img{
+        float: left;
+        position: absolute;
+        top: 2487px;
+        left: 830px;
+        height: 140px;
+    }.footer3{
+    float: left;
+    padding-left: 65px;
+    padding-top: 20px;
+    }
+    .footer4{
+       float: left; 
+       padding-left: 65px;
+       padding-top: 20px;
+    }
+    .footer5{
+        padding-top: 20px;
+        float: left;
+        padding-left: 65px;
+    }
+    .pd5{
+        float: right;
+        position: absolute;
+        left: 800px;
+        top: 800px;
+    }
+    .ha20>img{
+        height: 130px;
+        width: 270px;
+    }
+    .nd3{
+        padding-left: 35px;
+    }
+    
+    
+    
+    
+    
+    
+    
+

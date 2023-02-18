@@ -1,0 +1,47 @@
+
+
+ .col-25{
+    width: 25%;
+    float: left;
+}
+.prod{
+    border-radius: 10px; /*  bo goc */
+    box-shadow:0 0 5px gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
+.prod .name{
+    font-variant: small-caps;
+    color: orange;
+}
+.prod .image{
+    max-width: 98%;
+    height: 150px;
+    margin-bottom: 10px ;/*  khoang dem ben trong giua cac dong */
+}
+.prod .price{
+    position: absolute; /* position dung de sap xep vi tri gom co: static(mac dinh), relative(tuong doi), fixed(co dinh), absolute(tuyet doi), sticky(cuon xuong ko mat)*/
+    left: 5px;
+    bottom: 5px;
+    font-family: Impact;
+    font-size: 25px;
+    color: orange;
+}
+.prod .icons{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 25px;
+}
+.prod .icons img{
+    width: 25px;
+    height: 25px;
+}
+.prod .newicon{
+    width: 25%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}

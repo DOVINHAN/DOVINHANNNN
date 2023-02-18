@@ -1,0 +1,258 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    height: 150px;
+    background-color: #f0a52b;   
+
+}.header>img{
+    
+    float: left;
+    padding-left: 200px;
+}
+.xh1{
+    width: 250px;
+    height: 25px;
+    float: left;
+    margin-left:200px;
+    margin-top: 50px;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid gray;
+    text-align: center;
+     
+}
+.xh2{
+    width: 250px;
+    height: 25px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 50px;
+    border: 1px solid gray;
+    border-radius: 10px ;
+    text-align: center;
+}
+.v-menu>ul>li{
+    display: inline-block;
+    margin-top: 10px;
+}
+.v-menu>ul>li>a{
+    
+    text-decoration: none;
+    padding: 0 5px;
+    color: white;
+}
+.v-menu>ul{
+    padding-left: 220px;
+    background-color: #a70e1a;
+    height: 40px;
+    position: absolute;
+    margin-top: 150px;
+    width: 100%;
+    
+}
+.section1>img{
+    padding-top: 55px;
+    width: 100%;
+}
+.ha1>img{
+
+padding-left: 65px;
+}
+.ha2>img{
+    
+  padding-left: 20px;
+  
+}
+.ha3>img{
+    
+    padding-left: 35px;
+    height: 260px;
+    width: 270px;
+}
+.ha6{
+    padding-left: 35px;
+}
+
+.banner>img{
+    padding-left: 35px;
+    width: 300px;
+    height: 600px;
+}
+.pd1{
+    float: left;
+    padding-bottom: 50px;
+}
+.pd2{
+    float: left;
+}
+
+.pd3{
+    float: left;
+}
+.nd1{
+    padding-left: 65px;
+}
+.nd2{
+    padding-left: 20px;
+}
+.nd3{
+    padding-left: 35px;
+}
+.banner2>img{
+    position:absolute;
+    top:900px;
+    right:10px;
+   
+}.pd4{
+    clear: left;
+}
+.menu2>ul>li{
+        display: inline-block;
+        margin-top: 10px;
+    }
+.menu2>ul>li>a{
+        text-decoration: none;
+        padding: 0 5px;
+        color: white;
+    }
+.menu2>ul{
+        font-weight: bold;
+        background-color: gray;
+        height: 40px;
+        position: absolute;
+        width: 100%;
+        
+    }
+main{
+    padding-top:200px;
+}
+.trangcon31{
+    position:absolute;
+    top:800px;
+    right:500px;
+}
+.trangcon32{
+    position:absolute;
+    top:1100px;
+    right:600px;
+}
+.trangcon33{
+    position:absolute;
+    top:1350px;
+    right:630px;
+}
+aside{
+    position:relative;
+    top:200px;
+}
+button{
+    color:azure;
+    background-color: red;
+    height:30px;
+}
+.tieudiem{
+    padding-top: 10px;
+}
+footer{
+    background-repeat: no-repeat;
+    background-image: url(../image/anhchim.webp);
+    padding-top:500px;
+    position:relative;
+    top:600px;
+    left:20px;
+}
+.white{
+    color:white;
+    position:absolute;
+    top:400px;
+    left:50px;
+}
+.cent{
+    position:absolute;
+    top:05px;
+    left:500px;
+}
+.banner5{
+    position:absolute;
+    right:0px;
+    top:5px;
+}
+section{
+    position:relative;
+    top:900px;
+    left:10px;
+}
+.sport1{
+    position:absolute;
+    top:0px;
+    left:450px;
+}
+.sport2{
+    position:absolute;
+    top:200px;
+    left:450px;
+}
+.sport3{
+    position:absolute;
+    top:420px;
+    left:450px;
+}
+.banner22{
+    position:absolute;
+    top:10px;
+    right:10px;
+}.footer1{
+    margin-top: 1000px;
+    width: 400%;
+    height: 140px;
+    background-color: #fff;
+   
+ }
+ .footer1>img{
+    padding-left: 65px;
+    float: left;
+ }
+ .ft1>h3{
+    float: left;
+    padding-left: 10px;
+ }
+.ft2{
+    float: left;
+    margin-top: 50px;
+    position: absolute;
+    left: 290px;
+    border: 1px solid gray;
+}
+.ft3{
+    padding-top: 50px;
+}
+.ft4{
+    padding-left: 285px;
+    padding-top: 10px;
+}
+.footer2>img{
+    float: left;
+    position: absolute;
+    left:800px;
+    top:3600px;
+    height: 140px;
+}.footer3{
+float: left;
+padding-left: 65px;
+padding-top: 20px;
+}
+.footer4{
+   float: left; 
+   padding-left: 65px;
+   padding-top: 20px;
+}
+.footer5{
+    padding-top: 20px;
+    float: left;
+    padding-left: 65px;
+}
+
+
